@@ -1,1 +1,1 @@
-https://github.com/Lenchic14/ono-tebe-nado.git
+https://github.com/Lenchic14/ono-tebe-nado-fd.git
